@@ -6,7 +6,7 @@
 
 	<groupId>com.demo.springboot</groupId>
 	<artifactId>dth-web-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>dth-services</name>
@@ -134,8 +134,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>ssh-my-aws</id>
-			<url>scp://18.222.136.16/var/www/custom</url>
+			<id>ssh-myDTH-app</id>
+			<url>scp://3.17.11.235/var/www/custom</url>
 		</repository>
 	</distributionManagement>
 
