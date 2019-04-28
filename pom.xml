@@ -135,7 +135,7 @@
 	<distributionManagement>
 		<repository>
 			<id>ssh-myDTH-app</id>
-			<url>scp://3.17.11.235/var/www/html</url>
+			<url>scp://172.31.11.240/var/www/html</url>
 		</repository>
 	</distributionManagement>
 
